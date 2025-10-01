@@ -3,7 +3,6 @@
 A **responsive, offline-friendly Expense Tracker** built with **React, TypeScript, Vite, TailwindCSS, Zustand, and Recharts**.  
 Track your expenses, categorize them, visualize trends, export/import CSVs, toggle dark mode, and manage multi-currency transactions.
 
-Live Demo: [https://siziya.github.io/expense-tracker/](https://siziya.github.io/expense-tracker/)
 
 ---
 
